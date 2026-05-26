@@ -20,7 +20,7 @@ class Wallet{
 		void deposit(double amount){
 			if(amount > 0){
 				balance+=amount;
-				cout<<"gumary hajoxutyamb poxancvel e\n";
+				cout<<"Գումարը հաջողությամբ փոխանցվել է\n";
 			}
 			else{
 				cout<<"mutqagrel chisht gumar\n";
